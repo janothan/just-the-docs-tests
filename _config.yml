@@ -1,3 +1,6 @@
-title: "Remote theme example"
+title: "Matching EvaLuation Toolkit (MELT)"
+description: MELT documentation
 remote-theme: "just-the-docs"
+
+color_scheme: nil
 search_enabled: false
