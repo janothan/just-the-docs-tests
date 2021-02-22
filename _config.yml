@@ -1,6 +1,8 @@
 title: "Matching EvaLuation Toolkit (MELT)"
 description: MELT documentation
 remote-theme: "just-the-docs"
+base-url: ""
+url: ""
 
 color_scheme: nil
 search_enabled: false
